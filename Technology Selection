@@ -1,0 +1,8 @@
+Machine Learning
+1.Unet
+By using Unet, they have pretty good performance with the image segmentation.
+
+2.ResNet
+What's more, they replace the convolution layers in Unet with
+ResNet blocks to make the network deeper and improve
+the network performance greatly.
